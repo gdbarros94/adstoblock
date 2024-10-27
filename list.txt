@@ -106,6 +106,7 @@ sdkconfig.ad.intl.xiaomi.com
 tracking.rus.miui.com
 metrics.data.hicloud.com
 metrics2.data.hicloud.com
+affiliationjs.s3.amazonaws.com
 grs.hicloud.com
 logservice.hicloud.com
 logservice1.hicloud.com
@@ -115,3 +116,6 @@ smetrics.samsung.com
 nmetrics.samsung.com
 samsung-com.112.2o7.net
 analytics-api.samsunghealthcn.com
+ads.facebook.com
+advertising.twitter.com
+widgets.pinterest.com
